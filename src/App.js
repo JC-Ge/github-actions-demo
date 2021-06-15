@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World jc-ge
+          Hello World
         </a>
       </header>
     </div>
