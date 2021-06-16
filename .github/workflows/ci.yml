@@ -19,5 +19,5 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN_GAOTU_MBP }}
-        BRANCH: gh-pages2
+        BRANCH: gh-pages
         FOLDER: build
